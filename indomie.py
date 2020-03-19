@@ -1,0 +1,1 @@
+print("enakan mie sedap")
