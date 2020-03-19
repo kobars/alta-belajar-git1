@@ -1,1 +1,1 @@
-print('indomie rasa nasi padang')
+print("indomie rasa master")
