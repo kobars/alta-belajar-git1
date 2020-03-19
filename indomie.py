@@ -1,0 +1,1 @@
+print("indomie rasa yang pernah ada")
