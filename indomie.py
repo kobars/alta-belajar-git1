@@ -1,1 +1,1 @@
-print("indomie original")
+print("indomie goreng original")
