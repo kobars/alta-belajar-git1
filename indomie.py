@@ -1,1 +1,1 @@
-print("indomie rasa alul")
+print("indomie rasa master")
