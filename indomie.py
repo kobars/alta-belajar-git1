@@ -1,0 +1,1 @@
+print("Indomie rasa original")
