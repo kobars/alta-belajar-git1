@@ -1,1 +1,1 @@
-print("indomie rasa master")
+print("Indomie Ayam Geprek")
