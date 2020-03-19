@@ -1,2 +1,2 @@
 Latihan GIT batch 5
-dari branch yasin
+dari branch yasin # fullstack5_yasin
