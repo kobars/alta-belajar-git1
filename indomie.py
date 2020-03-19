@@ -1,1 +1,1 @@
-print("Indomie Ayam Geprek")
+print("Indomie Soto")
