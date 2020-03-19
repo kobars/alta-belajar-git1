@@ -1,0 +1,1 @@
+print("indomie original")
